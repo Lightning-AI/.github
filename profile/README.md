@@ -1,1 +1,1 @@
-# Welcome to PyTorch Lightning ⚡
+# Welcome to Lightning AI ⚡
